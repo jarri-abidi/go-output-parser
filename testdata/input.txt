@@ -1,0 +1,1 @@
+map[cows:map[first:mamaCow second:babyCow] ducks:map[first:lilDucky second:bigDuck rest:[ducks]]]

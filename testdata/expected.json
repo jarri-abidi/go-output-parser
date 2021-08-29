@@ -1,0 +1,4 @@
+{
+  "cows": { "first": "mamaCow", "second": "babyCow" },
+  "ducks": { "first": "lilDucky", "second": "bigDuck", "rest": ["ducks"] }
+}
